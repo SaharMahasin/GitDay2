@@ -7,4 +7,5 @@ public class Contact {
     //instagram
     //youtube
     //linkeden
+
 }
