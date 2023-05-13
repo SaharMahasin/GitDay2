@@ -10,4 +10,6 @@ public class Sales {
     //...
 
     //free99 items
+
+    //added holiday sales
 }
